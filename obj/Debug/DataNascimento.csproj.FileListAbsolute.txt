@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\DataNascimento\bin\Debug\DataNascimento.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\DataNascimento\bin\Debug\DataNascimento.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\DataNascimento\bin\Debug\DataNascimento.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\DataNascimento\obj\Debug\DataNascimento.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\DataNascimento\obj\Debug\DataNascimento.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\DataNascimento\obj\Debug\DataNascimento.pdb
